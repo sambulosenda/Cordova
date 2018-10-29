@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "ParkIt",
+  "short_name": "ParkIt",
+  "version": "com.bright.comments.parkits",
+  "description": "Android application for my interview",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
